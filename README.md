@@ -1,6 +1,13 @@
-# Welcome to your Expo app 👋
+# A movie finding mobile app with TMDB API
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+
+<p align="center">
+  <a href="https://github.com/Mustofaadni04040">
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=reactnative,expo,typescript,tailwindcss,appwrite"
+    />
+  </a>
+</p>
 
 ## Get started
 
